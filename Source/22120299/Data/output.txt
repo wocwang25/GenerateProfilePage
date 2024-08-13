@@ -1,0 +1,3195 @@
+﻿ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\rem.png
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\rem.png
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\rem.png
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\rem.png
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\rem.png
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\rem.png
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\rem.png
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\rem.png
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\rem.png
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
+ID: 22120210
+Name: Nguyễn Thị An
+Department: Tài chính
+Term: 2021
+Date of Birth: 12/10/2003
+Avatar: images\a1.jpg
+Description: Thân thiện
+Hobbies: Thể thao: Bơi lội
+ID: 22120123
+Name: Lê Văn Toàn
+Department: Y Dược
+Term: 2020
+Date of Birth: 25/12/2002
+Avatar: images\a2.jpg
+Description: Hoạt bát
+Hobbies: Không có sở thích
+ID: 22182032
+Name: Phạm Bảo Trân
+Department: Quản trị kinh doanh
+Term: 2022
+Date of Birth: 08/03/2004
+Avatar: images\a3.jpg
+Description: Năng động
+Hobbies: Âm nhạc: Jazz
+Hobbies: Điện ảnh: Marvel
+ID: 22172333
+Name: Trần Hoài Nam
+Department: Công nghệ thông tin
+Term: 2023
+Date of Birth: 15/07/2005
+Avatar: images\a4.jpg
+Description: Thông minh
+Hobbies: Điện ảnh: Sci-fi
+ID: 22122321
+Name: Đỗ Minh Hằng
+Department: Kiến trúc
+Term: 2019
+Date of Birth: 21/09/2001
+Avatar: images\a5.jpg
+Description: Sáng tạo
+Hobbies: Âm nhạc: Classical
+ID: 22120399
+Name: Bùi Hồng Vân
+Department: Văn học
+Term: 2022
+Date of Birth: 30/06/2004
+Avatar: images\a6.jpg
+Description: Đọc sách
+Hobbies: Không có sở thích
+ID: 22120301
+Name: Ngô Quốc Dũng
+Department: Luật
+Term: 2021
+Date of Birth: 04/04/2003
+Avatar: images\a7.jpg
+Description: Lý luận
+Hobbies: Âm nhạc: Rock
+Hobbies: Thể thao: Đá bóng
+ID: 22120311
+Name: Mai Thị Loan
+Department: Y Dược
+Term: 2020
+Date of Birth: 19/11/2002
+Avatar: images\a8.jpg
+Description: Chăm chỉ
+Hobbies: Thể thao: Chạy bộ
+ID: 22120999
+Name: Phan Anh Tuấn
+Department: Du lịch
+Term: 2023
+Date of Birth: 02/02/2005
+Avatar: images\a9.jpg
+Description: Hài hước
+Hobbies: Điện ảnh: Comedies
+Hobbies: Sách: Trinh thám
+ID: 22120299
+Name: Võ Quốc Quang
+Department: Công nghệ thông tin
+Term: 2022
+Date of Birth: 07/05/2004
+Avatar: images\rem.png
+Description: Dễ thương, và tất nhiên là đẹp trai
+Hobbies: Âm nhạc: Kpop, Vpop
+Hobbies: Điện ảnh: Harry Potter
